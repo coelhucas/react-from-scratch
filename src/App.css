@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  padding: 24px;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+}
