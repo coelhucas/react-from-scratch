@@ -11,3 +11,14 @@ the presentation.
 Note that this is just a beginners example, shouldn't be used as reference for real life projects and should be consideres as possibly **unstable**. 🚧
 
 See [Next.js](https://nextjs.org/) as a great alternative for creating your react applications.
+
+### Running
+
+- Getting dependencies:
+`yarn`
+- Starting locally:
+`yarn start`
+- Running tests:
+`yarn test`
+- Building:
+`yarn build`
